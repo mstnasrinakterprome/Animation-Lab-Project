@@ -4,7 +4,7 @@ A textured-free, fully lit 3D bedroom scene built with **GLFW + GLAD + GLM**
 (modern OpenGL 3.3 core, shader-based pipeline) — same libraries, same file
 layout, and the same `Shader` / `Camera` / `BasicCamera` / `PointLight`
 helper classes as the course template used in
-[sabbir2667/Amimaiton-lab-pro](https://github.com/sabbir2667/Amimaiton-lab-pro).
+[sabbir2667/Amimaiton-lab-pro](https://github.com/mstnasrinakterprome/Animation-Lab-Project).
 
 Rather than one giant `main.cpp`, the scene is split into one file per task,
 all `#include`d from `main.cpp`, exactly like the reference repo:
